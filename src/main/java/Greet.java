@@ -1,6 +1,7 @@
 public class Greet {
 
-    private String helloWorld(){
-        return "Hello World";
+    public void addingStuff() {
+        System.out.println("Shiraz commit");
+        System.out.println("Shiraz commit 2");
     }
 }
