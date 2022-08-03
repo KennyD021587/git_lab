@@ -1,6 +1,6 @@
 public class Greet {
 
-    private String helloWorld(){
-        return "Hello World";
+    public void addingStuff() {
+        System.out.println("Shiraz commit");
     }
 }
